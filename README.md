@@ -1,5 +1,5 @@
 # phaserCalculator
-This programm adds phaser 
+This programm adds phaser representatoin of complex numbers
 
  Phasers are data structures used mostly by electrical power engineers to calcuate impedences in power system.
  they are basicly complex numbers with format: if z is the complex number 
