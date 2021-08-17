@@ -12,9 +12,9 @@ This programm adds phaser representatoin of complex numbers
           phase(z) is atan(4/3) = 45 degrees 
           5<45
 
-and we have two phaser z1 and z2
+and we have two phaser z1 and z2 \n
     z1 * z2
-is easey to calculate which is 
+is easey to calculate which is \n
     abs(z1) * abs(z2) <(phase(z)+phse(z) )
 which is multiplying there magnute while adding there phase 
 
@@ -25,12 +25,12 @@ so I have wrote this program in python to add phaser representation of complex n
 
 # Ussage 
   type in your command 
-    python phasser_adder 
+    python phasser_adder  \n
     > 23<32 + 43<32
   and you will see there added 
  
  the phaser representation should be like discribed above 
- if you have negative magnitude use
+ if you have negative magnitude use \n
     > 23<32 + -43<32
  use degrees not radiance 
  
